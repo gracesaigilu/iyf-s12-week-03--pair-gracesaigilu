@@ -1,2 +1,3 @@
-# Main branch version title
+# Conflicting local line
+# Line from main branch
 
